@@ -57,4 +57,4 @@
 
 ## :telephone_receiver: Contact
 [![Linkedin](https://img.shields.io/badge/Julia%20Noczyńska-0077B5?style=Flate&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-noczyńska-5a08a1238/)
-[![Gmail](https://img.shields.io/badge/noczynska.julia@gmail.com-D14836?style=Flat&logo=gmail&logoColor=white)](mailto:noczynska.julia@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+[![Gmail](https://img.shields.io/badge/noczynska.julia@gmail.com-D14836?style=Flat&logo=gmail&logoColor=white)](mailto:noczynska.julia@gmail.com)
