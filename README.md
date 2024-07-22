@@ -1,8 +1,6 @@
 ## :mag: About me
 
-:raising_hand: Hi! I am a third year student of the Computer Science at the University of Wroclaw.
-
-:video_game: Currently I am focused on learning things related to Game Development.
+:raising_hand: Hi! I am a fourth-year student of the Computer Science at the University of Wroclaw.
 
 <br>
 
