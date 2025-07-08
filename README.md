@@ -21,7 +21,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-:bar_chart: **Database Administration**
+:bar_chart: **Databases**
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -42,5 +42,4 @@
 <br>
 
 ## :telephone_receiver: Contact
-[![Linkedin](https://img.shields.io/badge/Julia%20Noczyńska-0077B5?style=Flate&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-noczyńska-5a08a1238/)
 [![Gmail](https://img.shields.io/badge/noczynska.julia@gmail.com-D14836?style=Flat&logo=gmail&logoColor=white)](mailto:noczynska.julia@gmail.com)
