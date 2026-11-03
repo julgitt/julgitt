@@ -1,5 +1,4 @@
 ## :wrench: Technologies
-## :wrench: Technologies & Tools
 
 **Java & Backend Core**
 
